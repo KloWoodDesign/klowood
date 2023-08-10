@@ -3,12 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tu Empresa de Productos de Madera</title>
+    <title>Klö Wood Design</title>
     <link rel="stylesheet" href="estilos.css">
 </head>
 <body>
     <header>
-        <h1>Tu Empresa de Productos de Madera</h1>
+        <h1>Klö Wood Design</h1>
         <nav>
             <ul>
                 <li><a href="#inicio">Inicio</a></li>
@@ -20,7 +20,7 @@
     
     <section id="inicio">
         <h2>Bienvenido a Nuestra Empresa</h2>
-        <p>Descubre la belleza y durabilidad de nuestros productos de madera hechos a mano.</p>
+        <p>Descubre la belleza y durabilidad de nuestros productos.</p>
     </section>
     
     <section id="productos">
