@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tu Empresa de Productos de Madera</title>
+    <link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+    <header>
+        <h1>Tu Empresa de Productos de Madera</h1>
+        <nav>
+            <ul>
+                <li><a href="#inicio">Inicio</a></li>
+                <li><a href="#productos">Productos</a></li>
+                <li><a href="#contacto">Contacto</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <section id="inicio">
+        <h2>Bienvenido a Nuestra Empresa</h2>
+        <p>Descubre la belleza y durabilidad de nuestros productos de madera hechos a mano.</p>
+    </section>
+    
+    <section id="productos">
+        <h2>Nuestros Productos</h2>
+        <div class="producto">
+            <img src="producto1.jpg" alt="Producto 1">
+            <h3>Producto 1</h3>
+            <p>Descripción del producto...</p>
+            <a href="#">Ver detalles</a>
+        </div>
+        <!-- Repite para otros productos -->
+    </section>
+    
+    <section id="contacto">
+        <h2>Contacto</h2>
+        <p>¡Estamos aquí para ayudarte! Contáctanos en [correo electrónico] o llámanos al [número de teléfono].</p>
+    </section>
+    
+    <footer>
+        <p>&copy; 2023 Tu Empresa de Productos de Madera. Todos los derechos reservados.</p>
+    </footer>
+</body>
+</html>
